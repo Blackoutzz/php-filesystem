@@ -1,0 +1,24 @@
+{
+    "name": "blackoutzz/filesystem",
+    "description": "Filesystem abstraction for any OS using PHP",
+    "version": "1.0.0",
+    "homepage": "https://github.com/Blackoutzz/php-filesystem",
+    "keywords": ["php", "filesystem", "file", "folder","directory"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mickael Nadeau",
+            "homepage": "https://github.com/Blackoutzz"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "filesystem": "src/"
+        }
+    }
+}
