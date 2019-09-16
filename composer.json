@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "filesystem": "src/"
+            "filesystem\\": "src/"
         }
     },
     "minimum-stability": "dev",
