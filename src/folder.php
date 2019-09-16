@@ -1,6 +1,6 @@
 <?php
 namespace filesystem;
-
+use filesystem\static_folder;
 /**
  * Object Folder.
  *
