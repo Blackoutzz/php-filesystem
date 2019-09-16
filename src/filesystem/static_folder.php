@@ -7,7 +7,7 @@ namespace filesystem;
  * This act as the backbone of the Object Folder Library and can be used directly.
  *
  * @Version 1.0
- * @Author  mick@blackoutzz.me
+ * @Author  Mickael Nadeau
  * @Twitter @Mick4Secure
  * @Github  @Blackoutzz
  * @Website https://Blackoutzz.me
